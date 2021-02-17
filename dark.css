@@ -1,0 +1,22 @@
+:root {
+  --page-background: #fff;
+  --page-title: #333;
+  --page-text: #333;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    --page-background: #2d3239;
+    --page-title: #e9d970;
+    --page-text: #75715e;
+  }
+}
+
+body {
+  background: var(--page-background);
+  color: var(--page-text);
+}
+
+h1 {
+  color: var(--page-title);
+}
