@@ -19,7 +19,7 @@
 - HTML
 
 
-### Teachers 🎓
+### Teacher 🎓
 
 ------------
 
